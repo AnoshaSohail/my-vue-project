@@ -4,6 +4,7 @@
     <router-link to="/about">About</router-link>
   </nav>
   <router-view />
+  <!-- replaced by route actual component -->
 </template>
 
 <style>
